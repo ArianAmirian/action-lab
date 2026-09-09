@@ -1,7 +1,7 @@
 name: Vid push
 on:
  push:
- branches: [ main ]
+  branches: [ main ]
 
 jobs:
   titta:
